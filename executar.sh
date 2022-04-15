@@ -6,4 +6,4 @@
 #      
 #http://www.apache.org/licenses/LICENSE-2.0
 
-/bin/python3 /home/osvaldolucas/source/Canetinha/programa.py
+/bin/python3 /home/$USER/Downloads/Canetinha/programa.py
